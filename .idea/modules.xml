@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/crazy-java.iml" filepath="$PROJECT_DIR$/.idea/crazy-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-demo/stream-demo.iml" filepath="$PROJECT_DIR$/stream-demo/stream-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streamdemo/streamdemo.iml" filepath="$PROJECT_DIR$/streamdemo/streamdemo.iml" />
+    </modules>
+  </component>
+</project>
